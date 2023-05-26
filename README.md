@@ -41,7 +41,7 @@ README〜ER図作成：5/26 〆切
 本番リリース：6月末
 
 ### 技術選定
-- Rails6
+- Rails7
 - postgresql
 - JavaScript
 - Tailwind
